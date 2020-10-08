@@ -50,7 +50,7 @@ msgid "enter path to video"
 msgstr "输入视频路径"
 
 msgid "Logo"
-msgstr ""
+msgstr "LOGO"
 
 msgid "enter path to logo"
 msgstr "输入LOGO路径"
@@ -68,10 +68,10 @@ msgid "enter path to fanart"
 msgstr "输入同人作品路径"
 
 msgid "Title shot"
-msgstr ""
+msgstr "标题截图"
 
 msgid "enter path to title shot"
-msgstr ""
+msgstr "输入标题截图路径"
 
 msgid "Manual"
 msgstr "手册"
@@ -86,28 +86,28 @@ msgid "enter path to map"
 msgstr "输入地图路径"
 
 msgid "Cartridge"
-msgstr ""
+msgstr "墨盒"
 
 msgid "enter path to cartridge"
-msgstr ""
+msgstr "输入墨盒路径"
 
 msgid "Alt BoxArt"
-msgstr ""
+msgstr "其它盒子"
 
 msgid "enter path to alt boxart"
-msgstr ""
+msgstr "输入其它盒子路径"
 
 msgid "Wheel"
-msgstr ""
+msgstr "旋转"
 
 msgid "enter path to wheel"
-msgstr ""
+msgstr "输入旋转路径"
 
 msgid "Mix"
-msgstr ""
+msgstr "混合"
 
 msgid "enter path to mix"
-msgstr ""
+msgstr "输入混合路径"
 
 msgid "Rating"
 msgstr "评分"
@@ -185,13 +185,13 @@ msgid "Crc32"
 msgstr "CRC32"
 
 msgid "Crc32 checksum"
-msgstr "Crc32校验"
+msgstr "CRC32校验"
 
 msgid "Md5"
-msgstr "Md5"
+msgstr "MD5"
 
 msgid "Md5 checksum"
-msgstr "Md5校验"
+msgstr "MD5校验"
 
 msgid "Game time"
 msgstr "游戏时间"
@@ -543,7 +543,7 @@ msgid "THE BEZEL PROJECT"
 msgstr "框架项目"
 
 msgid "SELECT BEZELS TO INSTALL / REMOVE"
-msgstr "选择BEZELS安装 / 卸载"
+msgstr "选择Bezels安装 / 卸载"
 
 msgid "UPDATE"
 msgstr "更新"
@@ -767,7 +767,7 @@ msgid ""
 "CONTINUE ANYWAY?"
 msgstr ""
 "警告: 你的选择中有未进行平台设置的的游戏平台。\n"
-" 抓取结果可能不准确! \n"
+"抓取结果可能不准确! \n"
 "是否继续抓取?"
 
 msgid "NO GAMES FIT THAT CRITERIA."
@@ -834,7 +834,7 @@ msgid "Cpu number"
 msgstr "CPU 序列号"
 
 msgid "Cpu max frequency"
-msgstr "CPU最大频率"
+msgstr "CPU 最大频率"
 
 msgid "Cpu feature"
 msgstr "CPU 特征"
@@ -1023,10 +1023,10 @@ msgid "COMPLETE QUIT MENU"
 msgstr "完成并推出"
 
 msgid "USE RETROARCH RGUI MENU"
-msgstr "使用 RETROARCH 的用户界面菜单"
+msgstr "使用 Retroarch 的用户界面菜单"
 
 msgid "SWITCH A/B BUTTONS IN EMULATIONSTATION"
-msgstr "在EMULATIONSTATION中切换 A/B 按键"
+msgstr "在EmulationStation中切换 A/B 按键"
 
 msgid "AUTOCONFIGURE EMULATORS CONTROLLERS"
 msgstr "自动配置模拟的控制设备"
@@ -1086,7 +1086,7 @@ msgid "ENABLE KODI"
 msgstr "启用 KODI"
 
 msgid "KODI AT START"
-msgstr "开机时进入KODI"
+msgstr "开机时进入 KODI"
 
 msgid "START KODI WITH X"
 msgstr "按 X 键启动 KODI"
@@ -1569,7 +1569,7 @@ msgid "FULL BOOT"
 msgstr "完全启动"
 
 msgid "EMULATED WIIMOTES"
-msgstr "WIIMOTES 模拟"
+msgstr "Wiimotes 模拟"
 
 msgid "CHANGE SCREEN LAYOUT"
 msgstr "更改屏幕布局"
@@ -1863,14 +1863,26 @@ msgstr "右"
 msgid "LEFT ANALOG UP"
 msgstr "左侧类比摇杆 上"
 
+msgid "LEFT ANALOG DOWN"
+msgstr "左侧类比摇杆 下"
+
 msgid "LEFT ANALOG LEFT"
 msgstr "左侧类比摇杆 左"
+
+msgid "LEFT ANALOG RIGTH"
+msgstr "左侧类比摇杆 右"
 
 msgid "RIGHT ANALOG UP"
 msgstr "右侧类比摇杆 上"
 
+msgid "RIGHT ANALOG DOWN"
+msgstr "右侧类比摇杆 下"
+
 msgid "RIGHT ANALOG LEFT"
 msgstr "右侧类比摇杆 左"
+
+msgid "RIGHT ANALOG RIGTH"
+msgstr "右侧类比摇杆 右"
 
 msgid "HOTKEY"
 msgstr "热键"
