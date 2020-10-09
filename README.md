@@ -1,7 +1,11 @@
-#说明:
+# 说明:
 - 修改了汉化不全问题 
 文件 batocera-emulationstation/locale/lang/zh_CN/LC_MESSAGES/emulationstation2.po 
 后续还在测试,如有缺失,后续补充... 
+
+
+
+
 
 ---
 EmulationStation
