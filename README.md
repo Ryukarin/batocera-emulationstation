@@ -3,7 +3,7 @@
 
 文件 batocera-emulationstation/locale/lang/zh_CN/LC_MESSAGES/emulationstation2.po
 
-后续还在测试,如有缺失,后续补充...
+还在测试完整性,如有缺失,后续补充...
 
 
 
